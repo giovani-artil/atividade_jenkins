@@ -1,5 +1,5 @@
 def calcular_media(nota1, nota2):
-	return (nota1+nota2)/3
+	return (nota1+nota2)/2
 
 def verificar_situacao(media):
 	if media >= 8:
